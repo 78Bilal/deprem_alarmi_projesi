@@ -3,7 +3,7 @@ Gerekli Malzemeler
 - Arduino UNO
 - Mpu 6050
 - I2C modüllü LCD ekran
-- Breadboard
+- Devre Tahtası 
 - 1 adet buzzer
 - 1 adet buton
 - 1 adet beyaz led
